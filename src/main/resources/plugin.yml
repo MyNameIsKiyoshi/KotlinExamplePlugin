@@ -1,0 +1,5 @@
+name: Plugin
+version: '${version}'
+main: fur.kiyoshi.plugin.Main
+api-version: 1.19
+authors: [ MyNameIsKiyoshi ]

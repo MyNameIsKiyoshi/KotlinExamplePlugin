@@ -1,0 +1,14 @@
+#    ______          __  ____  __            _
+#   /_  __/__  _____/ /_/ __ \/ /_  ______ _(_)___
+#    / / / _ \/ ___/ __/ /_/ / / / / / __ `/ / __ \
+#   / / /  __(__  ) /_/ ____/ / /_/ / /_/ / / / / /
+#  /_/  \___/____/\__/_/   /_/\__,_/\__, /_/_/ /_/
+#                                  /____/
+# https://patorjk.com/software/taag/#p=display&c=bash&f=Slant&t=TestPlugin%0A
+# MySQL Database
+MySQL:
+  Host: "localhost"
+  Port: "3306"
+  DataBase: "database"
+  UserName: "username"
+  Password: "pwdhere"
